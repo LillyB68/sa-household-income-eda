@@ -168,8 +168,4 @@ The project follows a structured data science workflow:
 
 This project is part of a structured data science learning path. Future extensions may include feature engineering and predictive modeling based on the cleaned dataset.
 
----
-
-## Notes
-This project prioritizes **clarity, reasoning, and transparency** over complexity. The focus is on demonstrating strong data fundamentals, sound analytical thinking, and the ability to work with realistic, imperfect data — skills that are essential for entry-level data science and analytics roles.
 
