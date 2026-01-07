@@ -117,20 +117,23 @@ As with most real-world survey data, the dataset includes:
 ## Project Structure
 The repository is structured as follows:
 
+```text
 sa-household-income-eda/
 │
 ├── data/
-│ ├── raw/ # Original IES 2023 dataset (unchanged)
-│ └── processed/ # Cleaned datasets created during analysis
+│   ├── raw/                # Original IES 2023 dataset (unchanged)
+│   └── processed/          # Cleaned datasets created during analysis
 │
 ├── notebooks/
-│ ├── 01_data_inspection.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ └── 03_exploratory_data_analysis.ipynb
+│   ├── 01_data_inspection.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   └── 03_exploratory_data_analysis.ipynb
 │
-├── figures/ # Saved plots and figures
-├── requirements.txt # Python dependencies
+├── figures/                # Saved plots and figures
+├── requirements.txt        # Python dependencies
 └── README.md
+```
+
 
 
 ---
